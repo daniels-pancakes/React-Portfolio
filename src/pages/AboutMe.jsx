@@ -3,7 +3,7 @@ export default function AboutMe(){
         <div>
             <div className="about-pic">
             <p>
-            <img className="photo" src="./src/assets/me.png" />
+            <img className="photo" src="/me.png" />
             </p>
             </div>
             <div className="about-blurb">
